@@ -1,0 +1,24 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "project which is part of EPAM systems Nodejs course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "blackjack": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matthew-Risedale/BlackJack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matthew-Risedale/BlackJack/issues"
+  },
+  "homepage": "https://github.com/Matthew-Risedale/BlackJack#readme",
+  "dependencies": {}
+}

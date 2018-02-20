@@ -1,0 +1,2 @@
+for start enter "blackjack start"
+to show logs enter "blackjack log"
